@@ -1,0 +1,31 @@
+{
+  "fungi_black": {
+    "label": 0,
+    "num_windows": 288
+  },
+  "fungi_green": {
+    "label": 1,
+    "num_windows": 300
+  },
+  "fungi_red": {
+    "label": 2,
+    "num_windows": 296
+  },
+  "fungi_tri": {
+    "label": 3,
+    "num_windows": 298
+  },
+  "fungi_white": {
+    "label": 4,
+    "num_windows": 310
+  },
+  "preprocessing_info": {
+    "shuffled": false,
+    "interpolated": true,
+    "expected_freq_ms": 100,
+    "window_size": 30,
+    "window_stride": 15,
+    "n_devices": 6,
+    "total_samples": 1492
+  }
+}

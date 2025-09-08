@@ -1,0 +1,2217 @@
+{
+  "files_processed": [
+    {
+      "file": "fungi_black_6array4_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 109,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_6array0_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 56,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_6array1_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 115,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_6array5_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 36,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_6array3_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_6array2_processed.csv",
+      "fungi_trial": "fungi_black_6",
+      "n_windows": 20,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array3_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 28,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array4_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 55,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array1_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 133,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array0_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 63,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array2_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 54,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_8array5_processed.csv",
+      "fungi_trial": "fungi_black_8",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array5_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 50,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array2_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 47,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array4_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array1_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 100,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array0_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 96,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_13array3_processed.csv",
+      "fungi_trial": "fungi_black_13",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array2_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 68,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array4_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 69,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array3_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 102,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array1_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 129,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array0_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 163,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_15array5_processed.csv",
+      "fungi_trial": "fungi_black_15",
+      "n_windows": 85,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array4_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 56,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array2_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array5_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 21,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array3_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array0_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 91,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_16array1_processed.csv",
+      "fungi_trial": "fungi_black_16",
+      "n_windows": 70,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_22array0_processed.csv",
+      "fungi_trial": "fungi_black_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_22array4_processed.csv",
+      "fungi_trial": "fungi_black_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_22array1_processed.csv",
+      "fungi_trial": "fungi_black_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_22array2_processed.csv",
+      "fungi_trial": "fungi_black_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array0_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 1,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array5_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array3_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array2_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array4_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_25array1_processed.csv",
+      "fungi_trial": "fungi_black_25",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array4_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 102,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array0_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array5_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 36,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array1_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 103,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array3_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_6array2_processed.csv",
+      "fungi_trial": "fungi_green_6",
+      "n_windows": 49,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array5_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array1_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 78,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array0_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 20,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array2_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array3_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 18,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_7array4_processed.csv",
+      "fungi_trial": "fungi_green_7",
+      "n_windows": 75,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array3_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array1_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 157,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array0_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 64,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array2_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 78,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array4_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_8array5_processed.csv",
+      "fungi_trial": "fungi_green_8",
+      "n_windows": 41,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array5_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 52,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array4_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 40,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array1_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 99,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array0_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 86,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array3_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_13array2_processed.csv",
+      "fungi_trial": "fungi_green_13",
+      "n_windows": 47,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array0_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 164,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array3_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 103,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array4_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 56,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array5_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 85,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array2_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 70,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_15array1_processed.csv",
+      "fungi_trial": "fungi_green_15",
+      "n_windows": 131,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array0_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 92,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array2_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array5_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 23,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array4_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 56,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array3_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 12,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_16array1_processed.csv",
+      "fungi_trial": "fungi_green_16",
+      "n_windows": 72,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_22array4_processed.csv",
+      "fungi_trial": "fungi_green_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_22array2_processed.csv",
+      "fungi_trial": "fungi_green_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_22array0_processed.csv",
+      "fungi_trial": "fungi_green_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_22array1_processed.csv",
+      "fungi_trial": "fungi_green_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_25array5_processed.csv",
+      "fungi_trial": "fungi_green_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_25array2_processed.csv",
+      "fungi_trial": "fungi_green_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_25array1_processed.csv",
+      "fungi_trial": "fungi_green_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_25array3_processed.csv",
+      "fungi_trial": "fungi_green_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_green_25array4_processed.csv",
+      "fungi_trial": "fungi_green_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array5_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 36,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array4_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 103,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array3_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array1_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 102,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array2_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 49,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_6array0_processed.csv",
+      "fungi_trial": "fungi_red_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array5_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array4_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array3_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 18,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array2_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 12,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array0_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 19,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_7array1_processed.csv",
+      "fungi_trial": "fungi_red_7",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array1_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 142,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array2_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 63,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array0_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 64,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array4_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 62,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array3_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_8array5_processed.csv",
+      "fungi_trial": "fungi_red_8",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array2_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 47,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array3_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array0_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 94,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array1_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 98,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array5_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 52,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_13array4_processed.csv",
+      "fungi_trial": "fungi_red_13",
+      "n_windows": 41,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array4_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 31,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array3_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 97,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array5_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 86,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array2_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 67,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array0_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 124,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_15array1_processed.csv",
+      "fungi_trial": "fungi_red_15",
+      "n_windows": 71,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array1_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 71,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array2_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array3_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array4_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 55,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array0_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 90,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_16array5_processed.csv",
+      "fungi_trial": "fungi_red_16",
+      "n_windows": 20,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_22array1_processed.csv",
+      "fungi_trial": "fungi_red_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_22array0_processed.csv",
+      "fungi_trial": "fungi_red_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_22array4_processed.csv",
+      "fungi_trial": "fungi_red_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_22array2_processed.csv",
+      "fungi_trial": "fungi_red_22",
+      "n_windows": 26,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_25array3_processed.csv",
+      "fungi_trial": "fungi_red_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_25array1_processed.csv",
+      "fungi_trial": "fungi_red_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_25array5_processed.csv",
+      "fungi_trial": "fungi_red_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_25array4_processed.csv",
+      "fungi_trial": "fungi_red_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_red_25array2_processed.csv",
+      "fungi_trial": "fungi_red_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array2_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 51,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array4_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 101,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array0_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 41,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array1_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 104,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array3_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_6array5_processed.csv",
+      "fungi_trial": "fungi_tri_6",
+      "n_windows": 37,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array2_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array5_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 16,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array1_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 76,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array4_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 75,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array3_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 18,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_7array0_processed.csv",
+      "fungi_trial": "fungi_tri_7",
+      "n_windows": 20,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array3_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array2_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 47,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array4_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 35,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array5_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 8,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array1_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 118,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_8array0_processed.csv",
+      "fungi_trial": "fungi_tri_8",
+      "n_windows": 57,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array1_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 98,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array3_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 76,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array5_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 53,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array0_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 94,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array2_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 46,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_13array4_processed.csv",
+      "fungi_trial": "fungi_tri_13",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array1_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 131,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array5_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 85,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array0_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 163,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array2_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 69,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array4_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 59,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_15array3_processed.csv",
+      "fungi_trial": "fungi_tri_15",
+      "n_windows": 103,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array2_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array0_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 91,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array1_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 71,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array4_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 55,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array3_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_16array5_processed.csv",
+      "fungi_trial": "fungi_tri_16",
+      "n_windows": 22,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_22array1_processed.csv",
+      "fungi_trial": "fungi_tri_22",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_22array2_processed.csv",
+      "fungi_trial": "fungi_tri_22",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_22array0_processed.csv",
+      "fungi_trial": "fungi_tri_22",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_22array4_processed.csv",
+      "fungi_trial": "fungi_tri_22",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_25array4_processed.csv",
+      "fungi_trial": "fungi_tri_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_25array2_processed.csv",
+      "fungi_trial": "fungi_tri_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_25array3_processed.csv",
+      "fungi_trial": "fungi_tri_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_25array5_processed.csv",
+      "fungi_trial": "fungi_tri_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_tri_25array1_processed.csv",
+      "fungi_trial": "fungi_tri_25",
+      "n_windows": 24,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array5_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 36,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array4_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 95,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array0_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 41,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array3_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 41,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array2_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 31,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_6array1_processed.csv",
+      "fungi_trial": "fungi_white_6",
+      "n_windows": 101,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array5_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array3_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 17,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array2_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array4_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 75,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array0_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 20,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_7array1_processed.csv",
+      "fungi_trial": "fungi_white_7",
+      "n_windows": 76,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array0_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 65,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array4_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 63,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array3_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 28,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array1_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 143,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array5_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_8array2_processed.csv",
+      "fungi_trial": "fungi_white_8",
+      "n_windows": 64,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array1_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 101,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array5_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 53,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array2_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 47,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array3_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 77,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array0_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 95,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_13array4_processed.csv",
+      "fungi_trial": "fungi_white_13",
+      "n_windows": 42,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array2_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 68,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array4_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 69,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array1_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 129,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array0_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 163,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array5_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 85,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_15array3_processed.csv",
+      "fungi_trial": "fungi_white_15",
+      "n_windows": 102,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array2_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 12,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array5_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 21,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array4_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 55,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array0_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 91,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array1_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 71,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_16array3_processed.csv",
+      "fungi_trial": "fungi_white_16",
+      "n_windows": 11,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_22array2_processed.csv",
+      "fungi_trial": "fungi_white_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_22array4_processed.csv",
+      "fungi_trial": "fungi_white_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_22array0_processed.csv",
+      "fungi_trial": "fungi_white_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_22array1_processed.csv",
+      "fungi_trial": "fungi_white_22",
+      "n_windows": 25,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_25array2_processed.csv",
+      "fungi_trial": "fungi_white_25",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_25array4_processed.csv",
+      "fungi_trial": "fungi_white_25",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_25array3_processed.csv",
+      "fungi_trial": "fungi_white_25",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_25array1_processed.csv",
+      "fungi_trial": "fungi_white_25",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_white_25array5_processed.csv",
+      "fungi_trial": "fungi_white_25",
+      "n_windows": 27,
+      "split": "train"
+    },
+    {
+      "file": "fungi_black_11array2_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 15,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_11array1_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_11array3_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 22,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_11array0_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_11array4_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 66,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_11array5_processed.csv",
+      "fungi_trial": "fungi_black_11",
+      "n_windows": 16,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array3_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 80,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array2_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 75,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array1_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 31,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array5_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 64,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array4_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 3,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_12array0_processed.csv",
+      "fungi_trial": "fungi_black_12",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array1_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 109,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array3_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 103,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array0_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 92,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array4_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 35,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array2_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 63,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_14array5_processed.csv",
+      "fungi_trial": "fungi_black_14",
+      "n_windows": 65,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array4_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array1_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array5_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array0_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array3_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_black_24array2_processed.csv",
+      "fungi_trial": "fungi_black_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array0_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array1_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 80,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array3_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 22,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array2_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 14,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array4_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 66,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_11array5_processed.csv",
+      "fungi_trial": "fungi_green_11",
+      "n_windows": 15,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array5_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 65,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array4_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 4,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array3_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 82,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array2_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 77,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array1_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 33,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_12array0_processed.csv",
+      "fungi_trial": "fungi_green_12",
+      "n_windows": 75,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array4_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 36,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array5_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 66,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array0_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 94,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array1_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 110,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array3_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 103,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_14array2_processed.csv",
+      "fungi_trial": "fungi_green_14",
+      "n_windows": 56,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array2_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array3_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array4_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array5_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array0_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_green_24array1_processed.csv",
+      "fungi_trial": "fungi_green_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array5_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 16,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array3_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array1_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array2_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 15,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array4_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 69,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_11array0_processed.csv",
+      "fungi_trial": "fungi_red_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array2_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 77,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array0_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 82,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array4_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 3,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array3_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array5_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 64,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_12array1_processed.csv",
+      "fungi_trial": "fungi_red_12",
+      "n_windows": 31,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array3_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 103,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array2_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 64,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array1_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 107,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array4_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 35,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array0_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 91,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_14array5_processed.csv",
+      "fungi_trial": "fungi_red_14",
+      "n_windows": 66,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array2_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array5_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array0_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array3_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array4_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_red_24array1_processed.csv",
+      "fungi_trial": "fungi_red_24",
+      "n_windows": 27,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array3_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 22,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array0_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array2_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 14,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array1_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 80,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array4_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 66,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_11array5_processed.csv",
+      "fungi_trial": "fungi_tri_11",
+      "n_windows": 16,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array1_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 32,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array3_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array5_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 64,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array4_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 3,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array2_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 76,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_12array0_processed.csv",
+      "fungi_trial": "fungi_tri_12",
+      "n_windows": 74,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array2_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 53,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array3_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 103,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array5_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 65,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array1_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 108,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array4_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 36,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_14array0_processed.csv",
+      "fungi_trial": "fungi_tri_14",
+      "n_windows": 92,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array3_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array2_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array1_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array5_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array4_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_tri_24array0_processed.csv",
+      "fungi_trial": "fungi_tri_24",
+      "n_windows": 25,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array1_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 80,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array2_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 14,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array5_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 16,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array0_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 23,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array3_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 22,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_11array4_processed.csv",
+      "fungi_trial": "fungi_white_11",
+      "n_windows": 67,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array0_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 74,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array4_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 3,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array1_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 32,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array3_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 81,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array5_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 64,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_12array2_processed.csv",
+      "fungi_trial": "fungi_white_12",
+      "n_windows": 76,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array2_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 61,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array5_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 67,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array4_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 36,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array3_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 104,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array0_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 93,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_14array1_processed.csv",
+      "fungi_trial": "fungi_white_14",
+      "n_windows": 110,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_24array3_processed.csv",
+      "fungi_trial": "fungi_white_24",
+      "n_windows": 85,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_24array1_processed.csv",
+      "fungi_trial": "fungi_white_24",
+      "n_windows": 113,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_24array0_processed.csv",
+      "fungi_trial": "fungi_white_24",
+      "n_windows": 97,
+      "split": "test"
+    },
+    {
+      "file": "fungi_white_24array4_processed.csv",
+      "fungi_trial": "fungi_white_24",
+      "n_windows": 107,
+      "split": "test"
+    }
+  ],
+  "preprocessing_info": "Raw sensor data. Windows filtered by Avg Distance (0.1 < d < 0.65) and Boundary Angle (> 10.0\u00b0 from spatial bin boundary axes).",
+  "boundary_filter_applied": true,
+  "angle_threshold_deg": 10.0,
+  "boundary_filter_description": "Positions must be > 10.0\u00b0 from both x-axis and y-axis (spatial bin boundaries)",
+  "resampling_applied": true,
+  "resampling_strategy": "RandomOverSampler",
+  "resampling_target": "Training set only",
+  "resampling_bins": 5,
+  "resampling_bin_type": "Quantile (applied to data within [0.1, 0.65] + angle > 10.0\u00b0)",
+  "distance_bin_distribution_before_resampling": {
+    "0": 1676,
+    "1": 1676,
+    "2": 1675,
+    "3": 1676,
+    "4": 1676
+  },
+  "distance_bin_distribution_after_resampling": {
+    "0": 1676,
+    "1": 1676,
+    "2": 1676,
+    "3": 1676,
+    "4": 1676
+  },
+  "resampled_train_set_size": 8380,
+  "class_distributions": {
+    "train": {
+      "spatial_bins": {
+        "0": 607,
+        "1": 642,
+        "2": 3582,
+        "3": 3549
+      },
+      "fungi_labels": {
+        "0": 1572,
+        "1": 1773,
+        "2": 1641,
+        "3": 1659,
+        "4": 1735
+      }
+    },
+    "val": {
+      "spatial_bins": {
+        "0": 258,
+        "1": 277,
+        "2": 1537,
+        "3": 1520
+      },
+      "fungi_labels": {
+        "0": 674,
+        "1": 760,
+        "2": 704,
+        "3": 711,
+        "4": 743
+      }
+    },
+    "test": {
+      "spatial_bins": {
+        "0": 385,
+        "1": 663,
+        "2": 2719,
+        "3": 2354
+      },
+      "fungi_labels": {
+        "0": 1174,
+        "1": 1171,
+        "2": 1193,
+        "3": 1158,
+        "4": 1425
+      }
+    }
+  },
+  "distance_statistics": {
+    "train": {
+      "mean": 0.46826475858688354,
+      "std": 0.13213804364204407,
+      "min": 0.07653599977493286,
+      "max": 0.7482465505599976
+    },
+    "val": {
+      "mean": 0.4673447012901306,
+      "std": 0.1306067556142807,
+      "min": 0.07681944966316223,
+      "max": 0.7377564907073975
+    },
+    "test": {
+      "mean": 0.4423361122608185,
+      "std": 0.1434297114610672,
+      "min": 0.08548662811517715,
+      "max": 0.7268728613853455
+    }
+  },
+  "scaled_feature_statistics": {
+    "train": {
+      "mean": 0.23840786516666412,
+      "std": 0.24485094845294952,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "val": {
+      "mean": 0.23683694005012512,
+      "std": 0.24388635158538818,
+      "min": 0.0,
+      "max": 1.006366491317749
+    },
+    "test": {
+      "mean": 0.21147848665714264,
+      "std": 0.23486196994781494,
+      "min": -0.029822349548339844,
+      "max": 1.0012478828430176
+    }
+  },
+  "scaler": {
+    "type": "MinMaxScaler",
+    "feature_range": [
+      0,
+      1
+    ],
+    "min_": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -1.013484239578247,
+      -4.446011543273926
+    ],
+    "scale_": [
+      0.16280274093151093,
+      0.6233431696891785,
+      0.4533389210700989,
+      0.24142880737781525,
+      0.45854511857032776,
+      0.03193060681223869,
+      0.9101666212081909,
+      0.097555011510849,
+      0.16022247076034546
+    ],
+    "n_features_in": 9,
+    "data_min_": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      10.388848304748535,
+      27.74898910522461
+    ],
+    "data_max_": [
+      6.142402648925781,
+      1.604252815246582,
+      2.205855131149292,
+      4.142007827758789,
+      2.1808104515075684,
+      31.317913055419922,
+      1.098699927330017,
+      20.639474868774414,
+      33.99031066894531
+    ],
+    "data_range_": [
+      6.142402648925781,
+      1.604252815246582,
+      2.205855131149292,
+      4.142007827758789,
+      2.1808104515075684,
+      31.317913055419922,
+      1.098699927330017,
+      10.250626564025879,
+      6.241321563720703
+    ],
+    "feature_names_in": [
+      "/A0_sensor_data",
+      "/A1_sensor_data",
+      "/A2_sensor_data",
+      "/A3_sensor_data",
+      "/A4_sensor_data",
+      "/A5_sensor_data",
+      "/A6_sensor_data",
+      "/Hum_sensor_data",
+      "/Temp_sensor_data"
+    ]
+  }
+}
