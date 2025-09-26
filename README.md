@@ -4,7 +4,7 @@
 Duke University
 <br>
 
-[website](http://generalroboticslab.com/Scensory) | [paper]()
+[website](http://generalroboticslab.com/Scensory) | [paper](https://arxiv.org/abs/2509.19318) | [video](https://youtu.be/z13JWuBa6mo)
 
 <p align="center">
     <img src="pics/Overview.jpg" width="700"  /> 
@@ -76,8 +76,20 @@ We provide pretrained model weights in the [pretrained](https://github.com/gener
 If you think this paper is helpful, please consider cite our work
 
 ```plaintext
+@misc{liu2025scensoryautomatedrealtimefungal,
+      title={Scensory: Automated Real-Time Fungal Identification and Spatial Mapping}, 
+      author={Yanbaihui Liu and Erica Babusci and Claudia K. Gunsch and Boyuan Chen},
+      year={2025},
+      eprint={2509.19318},
+      archivePrefix={arXiv},
+      primaryClass={eess.SP},
+      url={https://arxiv.org/abs/2509.19318}, 
+}
 
 ```
 
 ## License
 This repository is released under the CC BY-NC-ND 4.0 License. Duke University has filed patent rights for the technology associated with this article. For further license rights, including using the patent rights for commercial purposes, please contact Duke's Office for Translation and Commercialization ([otcquestions@duke.edu](mailto:otcquestions@duke.edu)) and reference OTC DU8859PROV. See [LICENSE](https://github.com/generalroboticslab/Scensory/blob/main/LICENSE-CC-BY-NC-ND-4.0.md) for additional details.
+
+## Acknowledgement
+This work is supported by NSF Engineering Research Center for Precision Microbiome Engineering (PreMiEr) under award 2133504.
